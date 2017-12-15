@@ -1,3 +1,3 @@
  #!/bin/bash
-echo my name is $ name 
-echo im coming from $ place
+echo my name is $name 
+echo im coming from $place
